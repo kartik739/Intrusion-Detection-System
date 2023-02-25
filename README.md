@@ -14,3 +14,4 @@ capable of distinguishing between "bad connections" (i.e., attacks or intrusions
 ## Contributors
 - [Kartik Mehta](https://github.com/kartikmehta8)
 - [Vaibhav Chaudhary](https://github.com/PerksofbeingVaibhav)
+- [Kartik Goel](https://github.com/kartik739)
