@@ -6,6 +6,7 @@ and protect it from unauthorized access by users, including potential insiders.
 The task of an intrusion detector is to develop a predictive model, specifically a classifier,
 capable of distinguishing between "bad connections" (i.e., attacks or intrusions) and "good connections" (i.e., normal activity).
 
+
 ## Model Accuracies
 <p align="center">
   <img src="https://user-images.githubusercontent.com/77505989/221350350-ebea06db-5249-4dfa-884e-c33c1a936491.png" />
